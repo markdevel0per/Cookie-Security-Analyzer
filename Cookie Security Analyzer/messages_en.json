@@ -1,0 +1,11 @@
+{
+    "begin": "There are ",
+    "cookies_on_page": " cookies on the current page with the security level of: ",
+    "0-1": "Cookies do not have proper security attributes, which means they can easily be obtained by an attacker.",
+    "1-3": "Cookies have few positive security attributes, which makes them susceptible to theft.",
+    "3-5": "Cookies have a mediocre level of security. Third party access to your cookies is difficult.",
+    "5-7": "Most cookies have positive security attributes. The possibility of their theft is minimal",
+    "7-10": "Almost all cookies have positive security attributes. Your data is safe.",
+    "no_cookies_message": "There aren't any cookies on this website. Remember that information transferred by HTTP can be much more easily hacked."
+  }
+  
